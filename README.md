@@ -4,5 +4,5 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pawan Pareek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pareek-Pawan&theme=FFFFFF&hide_border=0&stroke=1111&background=#FFFFFF"/>
     </a>
     <a href="#"><img width="100%" height="auto" src="https://imgur.com/iXuL1HG.png" height="175px"></a>
-<h1 align="center">Trying to be a Geek💻</h1>
+<h1 align="center">Striving to be a geek.💻</h1>
 </p>
